@@ -2,7 +2,7 @@
 # Aircraft Safety Analysis for Business Decisions
 
 ## Overview
-This project analyzes historical aviation accident data to determine which aircraft models are the safest for purchase by a company expanding into the aviation industry. The findings provide data-driven insights that help the head of the aviation division make informed decisions on aircraft acquisitions, with a focus on improving operational safety and managing risks.
+This project analyzes historical aviation accident data to determine which aircraft models are the safest for purchase by a company expanding into the aviation industry. The findings provide data-driven insights that help the head of the aviation division make informed decisions on aircraft acquisitions, with a focus on improving operational safety and managing risks
 
 ## Business Understanding
 As the company plans to enter the aviation market, understanding the risks associated with aircraft models is crucial for making safe and cost-effective acquisitions. Executives and safety officers are particularly interested in identifying the aircraft models with the best safety records and understanding the factors that influence aviation accidents.
